@@ -16,7 +16,8 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author 6237800
+ * Written by 6237800
+ * Github: https://github.com/Merrick-Vanier/Programming3_Lab6
  */
 public class HouseWithWindowPanesLab extends Application {
 
